@@ -26,6 +26,6 @@ The link to the Python code on Colab:
 ---
 
 ## Experiment Report  
-The summary of our experiment results can be found in **Experiment Report.pdf**.  
+The summary of our experiment results can be found in **[Experiment Report.pdf](https://github.com/LunaTsai/COMP551-Applied-Machine-Learning-Assignment1/blob/main/Experiment%20Report.pdf)**.
 
 ---
