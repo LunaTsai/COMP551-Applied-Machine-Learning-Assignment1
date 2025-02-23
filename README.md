@@ -18,7 +18,7 @@ In this project, we investigated the performance of a logistic regression model 
 https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators
 
 ## Code File / Link  
-**xxxx.ipyb** is the Python code used to train and test our logistic regression model.  
+**COMP 551 - Applied Machine Learning - A1.ipynb** is the Python code used to train and test our logistic regression model.  
 
 The link to the Python code on Colab:  
 [Colab Notebook](https://drive.google.com/file/d/1hpY0B4UFK3vsGwvW9huW9d_hYhsyskGF/view?usp=sharing)  
