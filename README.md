@@ -1,4 +1,4 @@
-# Logistic Regression Classification - Diabetes Classification (COMP551 Applied Machine Learning Assignment 1)
+# Logistic Regression Classification - Diabetes Classification
 
 ## Contributors  
 **Amir Dinari, Luna (Chia-Hui) Tsai, Suraj Van Verma**  
